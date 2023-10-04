@@ -1,12 +1,12 @@
-[![MasterHead] (https://th.bing.com/th/id/R.ef0ca5ab0eae24957d28edba46e97e8f?rik=6Prx%2bKY6iSm2Nw&pid=ImgRaw&r=0)]
+[![MasterHead](https://i.pinimg.com/originals/4b/8e/58/4b8e583e3a1b04c96e8f7347e8adeeb1.png)]
 <h1 align="center">Hi 👋, I'm Ilana Silva</h1>
-<h3 align="center">IT Developer & Project Management professional under construction from Brazil</h3>
+<h3 align="center">IT Developer & Project Management professional under construction... </h3>
 <img align="right" alt="Coding" width ="400" src= "https://static.vecteezy.com/system/resources/previews/007/121/731/original/trading-forex-and-stock-market-woman-at-computer-vector.jpg"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilanasilva&label=Profile%20views&color=0e75b6&style=flat" alt="ilanasilva" /> </p>
 
-- 🔭 I’m currently working on **Cisco Projects**
+- 🔭 I’m currently working on **Cisco Projects at Capgemini Engineering, Colombia**
 
 - 🌱 I’m currently learning **.NET, C#, Java, Git, Linux, SQL, QA, AWS, DEVOPs**
 
