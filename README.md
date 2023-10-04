@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/4b/8e/58/4b8e583e3a1b04c96e8f7347e8adeeb1.png)
 <h1 align="center">Hi 👋, I'm Ilana Silva</h1>
-<h3 align="center">IT Developer & Project Management professional under construction... </h3>
+<h3 align="center"> IT Developer & Project Management Professional "In Progress".  .. </h3>
 <img align="right" alt="Coding" width ="400" src= "https://static.vecteezy.com/system/resources/previews/007/121/731/original/trading-forex-and-stock-market-woman-at-computer-vector.jpg"
 
 
