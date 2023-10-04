@@ -1,7 +1,7 @@
-[![MasterHead] (https://br.pinterest.com/pin/785385622542423590/)]
+[![MasterHead] (https://th.bing.com/th/id/R.ef0ca5ab0eae24957d28edba46e97e8f?rik=6Prx%2bKY6iSm2Nw&pid=ImgRaw&r=0)]
 <h1 align="center">Hi 👋, I'm Ilana Silva</h1>
 <h3 align="center">IT Developer & Project Management professional under construction from Brazil</h3>
-<img align="right" alt="Coding" width ="400" src="https://www.bing.com/images/search?q=black%20female%20developers%20gif&qs=n&form=QBIR&sp=-1&lq=0&pq=black%20female%20developers%20gi&sc=0-26&cvid=EF1A08C7DF6B4AA88998DB04F8B0C1E1&ghsh=0&ghacc=0&first=1">
+<img align="right" alt="Coding" width ="400" src= "https://static.vecteezy.com/system/resources/previews/007/121/731/original/trading-forex-and-stock-market-woman-at-computer-vector.jpg"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilanasilva&label=Profile%20views&color=0e75b6&style=flat" alt="ilanasilva" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **.NET, C#, Java, Git, Linux, SQL, QA, AWS, DEVOPs**
 
-- 💬 Ask me about **Incident Management, ITIL, Project Management, Agile**
+- 💬 Ask me about **Incident Management, Trouleshooting, ITIL, Customer Support, Project Management, Jira, Agile, Scrum**
 
 - 📫 How to reach me **ilanacamilaf@gmail.com**
 
