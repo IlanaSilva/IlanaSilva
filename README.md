@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/4b/8e/58/4b8e583e3a1b04c96e8f7347e8adeeb1.png)
 <h1 align="center">Hi 👋, I'm Ilana Silva</h1>
 <h3 align="center"> IT Developer & Project Management Professional "In Progress".  .. </h3>
-<img align="right" alt="Coding" width ="400" src= "https://static.vecteezy.com/system/resources/previews/007/121/731/original/trading-forex-and-stock-market-woman-at-computer-vector.jpg"
+<img align="right" alt="Coding" width ="400" src= "https://media.licdn.com/dms/image/sync/D4E10AQEmsn3NFpEcJw/image-shrink_800/0/1696604641593?e=1697317200&v=beta&t=gBpBHmPFz6az7yxt_8hqHejKFCSfhNlktV1jybvq9ZM"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilanasilva&label=Profile%20views&color=0e75b6&style=flat" alt="ilanasilva" /> </p>
